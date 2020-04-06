@@ -85,7 +85,7 @@
 
    
 
-    <!-- ======= Facts Section ======= -->
+    <!-- ======= Lockdown Section ======= -->
     <section id="lockdown" class="lockdown">
       <div class="container">
 
@@ -452,7 +452,7 @@
         </div>
 
       </div>
-    </section><!-- End Facts Section -->
+    </section>
 
 
 	<section id="myth" class="myth">
